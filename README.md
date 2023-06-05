@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Matias Arroyo</h1>
 
-<h3 align="center">A passionate fullstack developer from Argentina</h3>
+<h3 align="center">I am a full-stack web developer from Argentina passionate about new technologies networks and interested in new challenges and innovative ideas.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
