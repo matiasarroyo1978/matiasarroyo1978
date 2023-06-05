@@ -1,6 +1,20 @@
-<h1 align="center">Hi there 👋, I'm Matias Arroyo</h1>
+<h3 align="center">👋 Hi there! I'm Matias Arroyo, a passionate full-stack developer with a knack for crafting innovative and robust web applications. Welcome to my GitHub profile!
 
-<h3 align="center">I am a full-stack web developer from Argentina passionate about new technologies networks and interested in new challenges and innovative ideas.</h3>
+💼 I have 3 years of experience in the software development industry, specializing in full-stack development. Over the years, I have honed my skills in both front-end and back-end technologies, allowing me to create end-to-end solutions that deliver exceptional user experiences.
+
+🌐 On the front-end, I'm well-versed in modern JavaScript frameworks like React and Angular, enabling me to build dynamic and responsive user interfaces. I pay great attention to detail, ensuring pixel-perfect designs and intuitive interactions.
+
+⚙️ In the back-end realm, I'm proficient in multiple programming languages such as Node.js and Python. I have hands-on experience with various frameworks and libraries like Express.js and Django, which empower me to develop scalable and efficient server-side applications.
+
+🛠️ Additionally, I have a strong understanding of databases, including both SQL and NoSQL, and have worked with popular technologies like MySQL, PostgreSQL, MongoDB, and Redis. I can design optimized database schemas and write efficient queries to ensure smooth data management.
+
+📦 As a believer in the power of DevOps, I am well-versed in tools like Docker and Kubernetes for containerization and orchestration, along with CI/CD pipelines to automate deployment processes and ensure continuous integration and delivery.
+
+🚀 I thrive in collaborative environments and have experience working in agile development teams. I'm a strong communicator and enjoy working closely with designers, product managers, and fellow developers to transform ideas into robust applications.
+
+💡 Constantly learning and exploring new technologies is my passion. I stay up to date with the latest industry trends and enjoy participating in hackathons and open-source projects to challenge myself and contribute to the developer community.
+
+📫 Feel free to explore my GitHub repositories to find a diverse range of projects, showcasing my skills and expertise. If you have any questions, collaboration ideas, or just want to connect, don't hesitate to reach out to me. Let's build amazing things together!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
