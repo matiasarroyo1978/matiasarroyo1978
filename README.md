@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi there! I'm Matias Arroyo, a passionate full-stack developer with a knack for crafting innovative and robust web applications. Welcome to my GitHub profile!
 
-💼 I have 3 years of experience in the software development industry, specializing in full-stack development. Over the years, I have honed my skills in both front-end and back-end technologies, allowing me to create end-to-end solutions that deliver exceptional user experiences.
+💼 I have 2 years of experience in the software development industry, specializing in full-stack development. Over the years, I have honed my skills in both front-end and back-end technologies, allowing me to create end-to-end solutions that deliver exceptional user experiences.
 
 🌐 On the front-end, I'm well-versed in modern JavaScript frameworks like React and Angular, enabling me to build dynamic and responsive user interfaces. I pay great attention to detail, ensuring pixel-perfect designs and intuitive interactions.
 
